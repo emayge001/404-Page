@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+}
+
+#homecont {
+    display: flex;
+
+}
+
+
+
+#botton { background-color: black
+    color(white;
+}
+
+
+.boycont {
+    width: 539.22px
+    height: 447.43px
+    top: 265px
+    left: 77px
+    
+}
+
+.textcont {
+    font-family: Space Mono;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    text-align: left;
+
+}
+
+#homecont{
+    background-color: red
+
+}
+#button{
+    background-color: black;
+    color: white;
+}
+
